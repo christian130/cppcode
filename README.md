@@ -9,6 +9,8 @@ English
 =====
 
 # Solving problems
+# Those files are compiled for windows 10 64 bits and are in spanish
+
 This is only a subset of solved problems that use the standard C++ programming language.
 Note that some of them use C++98 or C++11 or C++14.
 ```
@@ -27,6 +29,9 @@ All of these scripts are in spanish.
 
 Spanish
 =====
+
+# Resolviendo problemas
+## estos problemas estan compilados para windows 10 64 bits y en español
 Este es la traduccion original al castellano de los commit realizados. 
 Este es solo un subconjunto de problemas resueltos que usan el lenguaje de programación estándar C ++.
 Tenga en cuenta que algunos de ellos usan C ++ 98 o C ++ 11 o C ++ 14 (dependiendo del caso).
