@@ -21,7 +21,7 @@ Every single one of them can be achieved by the online compiler in the following
 * https://onlinegdb.com/45k-T8aHD
 * https://onlinegdb.com/B2gcRh2PS
 
-The last one is the second grade classif formula. The pic of the formula van ve achieved at the end of this document.
+The last one is the second grade classif formula. The pic of the formula can ve achieved at the end of this document.
 All of these scripts are in spanish.
 
 
@@ -38,7 +38,7 @@ Cada uno de ellos se puede hacer correr mediante el compilador en línea en los 
 * https://onlinegdb.com/45k-T8aHD
 * https://onlinegdb.com/B2gcRh2PS
 
-El ultimo item corresponde a la ecuacion de segundo grado clasica. A lo ultimo de este documento se puede obtener una copia de la formula.
+El ultimo item corresponde a la ecuacion de segundo grado clasica. A lo ultimo de este documento se puede obtener la copia de la formula original.
 
 
 ![printscreen.png](https://raw.githubusercontent.com/christian130/cppcode/master/second_item.png)
