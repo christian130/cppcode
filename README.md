@@ -9,7 +9,7 @@ English
 =====
 
 # Solving problems
-# Those files are compiled for windows 10 64 bits and are in spanish
+## Those files are compiled for windows 10 64 bits and are in spanish
 
 This is only a subset of solved problems that use the standard C++ programming language.
 Note that some of them use C++98 or C++11 or C++14.
