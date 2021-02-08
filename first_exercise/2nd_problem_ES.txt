@@ -1,0 +1,10 @@
+Elabora un programa que pida una serie de números al usuario y determine el máximo, el mínimo y la media aritmética de ellos. Para ello se debe crear una variable puntero tipo float, pedir al usuario que ingrese la cantidad de datos y luego los datos que va a calcular. Se les recuerda reservar memoria dinámica para almacenar el vector de datos. La salida debe ser asi:
+
+Número de datos: 10
+
+Máximo : 25
+
+Mínimo: 4
+
+Media aritmética: 14.6
+El ejecutable deberá ser agregado a este medio junto con su nombre.

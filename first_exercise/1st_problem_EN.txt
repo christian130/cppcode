@@ -1,0 +1,1 @@
+Carry out a program that calculates the second degree equation, for this you must enter the values a, b, c and depending on its discriminant determine if it has a solution or on the contrary its solution is imaginary (it must be emitted through messages). After completing the activity, you upload both the code and the executable file to this space.

@@ -1,0 +1,10 @@
+Create a program that asks the user for a series of numbers and determines the maximum, minimum and arithmetic mean of them. To do this, a float type pointer variable must be created, asking the user to enter the amount of data and then the data to be calculated. They are reminded to reserve dynamic memory to store the data vector. The output should be like this:
+
+Number of data: 10
+
+Maximum: 25
+
+Minimum: 4
+
+Arithmetic mean: 14.6
+The executable must be added to this medium together with its name.

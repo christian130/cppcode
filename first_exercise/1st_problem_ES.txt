@@ -1,0 +1,1 @@
+ Realizar un programa que calcule la ecuación de segundo grado, para ello se debe ingresar los valores a, b, c y dependiendo de su discriminante determinar si tiene solución o por el contrario su solución es imaginaria (debe emitirse a través de mensajes). Luego de realizar la actividad subes tanto el código como el archivo ejecutable a este espacio.
