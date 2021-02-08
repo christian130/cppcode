@@ -1,0 +1,3 @@
+Write a program (that is, a main function) that asks for a series of integers on the keyboard, stores them in a static table and then writes all the numbers entered on the screen, indicating which is the largest and which is the smallest.
+
+Take into account that the first thing the program must do is ask the user how many numbers are going to be entered and check that said quantity is less than the dimension of the table. For this dimension, a constant must be defined (for example MAX_DIMENSION) to which a reasonable value can be assigned (for example, 100).

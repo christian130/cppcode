@@ -1,0 +1,3 @@
+Escribir un programa (es decir una función main) que pida por teclado una serie de números enteros, los almacene en una tabla estática y posteriormente escriba por pantalla todos los números introducidos, indicando cual es el mayor y cual es el menor.
+
+Toma en cuenta que lo primero que debe hacer el programa es preguntar al usuario cuantos números se van a introducir y comprobar que dicha cantidad es menor que la dimensión de la tabla. Para dicha dimensión debe definirse una constante (por ejemplo MAX_DIMENSION) a la cual se puede asignar un valor razonable (por ejemplo, 100).

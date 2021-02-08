@@ -1,0 +1,3 @@
+Genere 100 números aleatorios con valores en el rango entre 1 y 500. Conforme se genera cada número, inserte en una cola inicialmente vacía. Si el número es de dos dígitos, tiene prioridad sobre números de tres dígitos.
+
+Después de insertar los 100 números, imprima en orden secuencial las posiciones de la cola donde se encuentra el número con mayor valor y el número con menor valor.
